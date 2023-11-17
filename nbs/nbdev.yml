@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "diffusion"
+  site-url: "https://ido-shelef.github.io/diffusion"
+  description: "a begginer's diffusion model"
+  repo-branch: main
+  repo-url: "https://github.com/ido-shelef/diffusion"
